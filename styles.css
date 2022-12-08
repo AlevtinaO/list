@@ -3,7 +3,7 @@ body {
     box-sizing:border-box; 
 }
 .box {
-    margin-left: 10px;
+    margin-left: 20px;
 }
 .title {
     font-size: 24px;
@@ -25,4 +25,8 @@ body {
 }
 .button:hover {
     background-color:rgb(3, 65, 136);
+}
+.ol {
+    padding-left: 20px;
+    padding-top: 10px;
 }
